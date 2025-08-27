@@ -2,8 +2,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello, world!");
         System.out.println("This is a sample Java project structure.");
-        for(int i = 1; i <= 5; i++) {
-            System.out.println("Count: " + i);
+        System.out.println("My name is Grayson, I enjoy: \n Playing games, \n Coding, \n and Eating");
         }
     }
 }
